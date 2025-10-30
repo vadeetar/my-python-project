@@ -1,0 +1,3 @@
+[submodule "lib/demo-module"]
+	path = lib/demo-module
+	url = https://github.com/octocat/Spoon-Knife.git
